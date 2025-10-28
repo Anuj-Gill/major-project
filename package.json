@@ -1,0 +1,11 @@
+{
+    "name": "major-project",
+    "version": "0.0.1",
+    "private": true,
+    "workspaces": [
+      "backend"
+    ],
+    "repository": "https://github.com/Anuj-Gill/major-project.git",
+    "scripts": {
+    }
+}
