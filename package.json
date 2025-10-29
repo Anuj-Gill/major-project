@@ -3,9 +3,11 @@
     "version": "0.0.1",
     "private": true,
     "workspaces": [
-      "backend"
+      "backend",
+      "project-hub"
     ],
     "repository": "https://github.com/Anuj-Gill/major-project.git",
     "scripts": {
+      "project-hub:dev": "yarn workspace @major-project/project-hub run dev"
     }
 }
